@@ -5,5 +5,7 @@
         <page name='Inout'/>
         <page name='Inout2'/>
         <page name='Inout3'/>
+        <page name='Inout4'/>
+        <page name='Inout5'/>
     </pages>
 </playground>
